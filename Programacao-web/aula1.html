@@ -24,15 +24,25 @@
         do body
       </p>
     </div>
-           <!-- é possível utilzar input date, datetime-local -->
-           <form action="" method="post">
-            <input type="date" name="data-atual[0]" min="2023-01-01" max="2023-12-31"id="data-um">
-            <input type="date" name="data-atual[1]" id="data-dois">
-            <input type="date" name="data-atual[2]" id="data-tres">
-            <!-- TODO: Verificar funcionalidades que podem ser usadas no onsubmit -->
-            <input type="submit" value="Enviar" onsubmit="console.log('eu si divirto')">
-        </form>
-    <hr>
+    <!-- é possível utilzar input date, datetime-local -->
+    <form action="" method="post">
+      <input
+        type="date"
+        name="data-atual[0]"
+        min="2023-01-01"
+        max="2023-12-31"
+        id="data-um"
+      />
+      <input type="date" name="data-atual[1]" id="data-dois" />
+      <input type="date" name="data-atual[2]" id="data-tres" />
+      <!-- TODO: Verificar funcionalidades que podem ser usadas no onsubmit -->
+      <input
+        type="submit"
+        value="Enviar"
+        onsubmit="console.log('eu si divirto')"
+      />
+    </form>
+    <hr />
     <div id="anotacoes-da-aula">
       <!-- A tag img é responsável por carregar o conteúdo da imagem no navegador -->
       <!-- A tag figure e figcaption são tags semântica -->
@@ -45,7 +55,6 @@
           alt="Uma imagem de avião"
         />
         <figcaption>Imagem de avião</figcaption>
- 
       </figure>
     </div>
   </body>
