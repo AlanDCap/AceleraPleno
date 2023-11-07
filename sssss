@@ -1,0 +1,59 @@
+[33mcommit 947f3e2888f2335635a155d031a186cd6fbab952[m[33m ([m[1;36mHEAD -> [m[1;32mfeatureBranch[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m, [m[1;32mbranchcheckout-b[m[33m)[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Mon Nov 6 20:29:54 2023 -0300
+
+    teste de comandos do git mv
+
+[33mcommit 818894fb3c969827f99e888f8eb89ab48ae2f05d[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Wed Nov 1 22:02:12 2023 -0300
+
+    ajuste da indentação
+
+[33mcommit 64064b19d884884c8a3b90110e8afe7dd2dd299b[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Wed Nov 1 22:01:42 2023 -0300
+
+    adição de comentário
+
+[33mcommit eec57857bdece1b75bae749bae9ed3c2c9c1d9d3[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Wed Nov 1 21:58:56 2023 -0300
+
+    commit final da aula
+
+[33mcommit 001c140b4ad08abfc5836276b352ce59b142aa91[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Wed Nov 1 20:52:26 2023 -0300
+
+    commit do intervalo de aula.
+
+[33mcommit a959adebd08570d0c58ab7abf69aa6d5f58b3216[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Mon Oct 30 21:32:44 2023 -0300
+
+    mais alterações
+
+[33mcommit c1456c79468a92f7e58a93e3a1e929ff059f984f[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Mon Oct 30 21:02:14 2023 -0300
+
+    configurações do gitignore
+
+[33mcommit ec97d1daf920f7c4e499e2e47b95e37006f3ad4a[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Mon Oct 30 20:32:28 2023 -0300
+
+    envio de gitignore
+
+[33mcommit a55f69e3781d7379b84fb098fb474c83ef06c112[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Mon Oct 30 20:30:52 2023 -0300
+
+    teste de gitignore
+
+[33mcommit 29618a34f558f97e333e13b8bd510aac3c3a710e[m
+Author: Alan Capelari <alandc@hotmail.com.br>
+Date:   Mon Oct 30 20:08:22 2023 -0300
+
+    criação da branch
