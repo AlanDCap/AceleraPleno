@@ -42,7 +42,6 @@ input[type="button"]:hover {
   border: 1px solid gray;
   font-weight: bold;
   transform: translate(500px, 0);
-  
 }
 
 input[type="password"] {
@@ -54,6 +53,10 @@ input[type="email"] {
 }
 
 label:active {
-    text-align: center;
-    text-decoration: underline;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.formgroup {
+    border-color: aqua;
 }
