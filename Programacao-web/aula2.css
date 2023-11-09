@@ -1,0 +1,107 @@
+/* 
+Anotações: 
+Objetivos: como utilizar seletores. 
+
+CSS = Cascade Style Sheets
+
+Uma regra de CSS é um conjunto de propriedades associados a um seletor
+Inclusão através de um tag style sheet
+Inclusão diretamente na página
+Inclusão diretamente na tag
+
+*/
+/*seletor*/
+h1 {
+    /*declarações*/
+  color: blue;
+  font-size: 12px;
+}
+
+/* seletor por id */
+#parag1 {
+    color:white;
+    background-color: black;
+}
+
+/* seletor por classe */
+.center {
+    text-align: center;
+}
+
+.b5 { 
+    margin-bottom: 5px;
+}
+
+/* seletor por classe fixa */
+p.center {
+    text-align: left;
+}
+
+/* seletor por classe (combinado) */
+/* <p class="center b5">Texto</p> */
+
+/* seletor agrupado */
+
+h1, h2, p {
+    color: red;
+}
+
+/* seletor universal */
+
+* {             /*Se não tiver uma fonte, busca a outra*/
+    font-family: "Lucida Console", 'Courier New',  monospace;
+}
+
+/* seletores combinadores */
+
+/* 1. seletor descendente (espaço) */
+
+div p {
+    background-color: greenyellow;
+}
+
+/* seletor filho. Só aplica pro filho */
+
+div > p {
+    color: aquamarine;
+}
+
+
+/* seletor irmão adjacente */
+
+div + p {
+    color: azure;
+}
+
+/* seletor geral de irmãos, todos elementos próximos dos especificados */
+
+div ~ p {
+    color: brown;
+}
+
+/* seletores de pseudo classe 
+estilizar elemento ao passar o mouse */
+
+a:link {
+    color:lightblue;
+}
+a:visited { 
+    color: blue;
+}
+a:hover {
+    color: blueviolet;
+}
+a:active {
+    color: aliceblue;
+}
+
+p:firstchild {
+    stroke: black;
+}
+
+h1::before {
+    content: "A";
+}
+[title~="flor"] {
+    text-decoration: dashed;
+}
