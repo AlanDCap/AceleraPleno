@@ -1,0 +1,28 @@
+.container {
+    max-width: 500px;
+    height: 200px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 10px #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #counter {
+    margin-bottom: 10px;
+    padding-top: 10px;
+    height: 30px;
+    font-weight: bold;
+  }
+  
+  button {
+    width: 100px;
+    height: 40px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 10px #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
