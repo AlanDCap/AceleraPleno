@@ -11,7 +11,20 @@ document.getElementById('texto').addEventListener('keyup', (e) => {
     .filter(item => item.length > 1).length;
 
 });
-    
+function gerarRnd(n) {
+	const letras = 'abcdefghijklmnopqrstuvwxyz123456789';
+  let gerador = '';
+  for (let i = 0; i < n; i++) {
+  	const rnd = Math.floor(Math.random() * letras.length);
+  	gerador += letras[rnd];
+  }
+	return gerador; 
+}
+
+function gerar() {
+	const n = document.getElementById('quantidade').value || 10;
+	document.getElementById('valorRnd').value = gerarRnd(n);
+} 
 // var num  = 0;
 // var counter = 0;
 // var results = [];
