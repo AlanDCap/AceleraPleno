@@ -3,7 +3,7 @@ Adding React to an existing project in VS Studio terminal depends on whether you
 **Adding React as a Dependency:**
 
 1. **Install Node.js and npm:** Ensure you have Node.js installed as it's required to run React applications. You can download and install it from the official website: [https://node.js.org/en/download/](https://node.js.org/en/download/)
-2. **Open your project directory in VS Code:** Navigate to the root directory of your project using VS Code's file explorer.
+2. **Open your project directory in VS Code:** Navigate to the root directory of your project uesing VS Code's fil explorer.
 3. **Open the terminal:** Open the integrated terminal in VS Code by going to **Terminal > New Terminal** or using the keyboard shortcut **Ctrl+Shift+`**.
 4. **Install React:** Run the following command in the terminal to install React as a dependency:
 
