@@ -1,0 +1,14 @@
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\bin\Debug\net8.0\MVCAula1.exe
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\bin\Debug\net8.0\MVCAula1.deps.json
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\bin\Debug\net8.0\MVCAula1.runtimeconfig.json
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\bin\Debug\net8.0\MVCAula1.dll
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\bin\Debug\net8.0\MVCAula1.pdb
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.AssemblyInfoInputs.cache
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.AssemblyInfo.cs
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.csproj.CoreCompileInputs.cache
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.dll
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\refint\MVCAula1.dll
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.pdb
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\MVCAula1.genruntimeconfig.cache
+C:\Users\aland\Desktop\MVCAula1\MVCAula1\obj\Debug\net8.0\ref\MVCAula1.dll
