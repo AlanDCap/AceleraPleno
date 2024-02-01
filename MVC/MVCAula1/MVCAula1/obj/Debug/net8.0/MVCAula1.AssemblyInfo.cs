@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCAula1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+add5ad70683bd9da48487820343aa5a718f708b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d92403810b6130dcd306d7c8673e1858d344aee")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCAula1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCAula1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
