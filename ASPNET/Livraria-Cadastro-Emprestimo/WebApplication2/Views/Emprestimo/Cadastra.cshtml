@@ -1,0 +1,23 @@
+﻿@model EmprestimoModel
+
+
+<h1>Cadastro de Empréstimos</h1>
+
+<form method="post" asp-controller="Emprestimo" asp-action="Index">
+
+    <div class="mb-3">
+        <label for="IDUSUARIO" class="form-label">Usuário</label>
+        <input type="number" class="form-control" id="IDUSUARIO" asp-for="IDUSUARIO">
+
+        <label for="IDLIVRO" class="form-label">Livro</label>
+        <input type="number" class="form-control" id="IDLIVRO" asp-for="IDLIVRO">
+
+        <label for="DTEMPRESTIMO" class="form-label">Data</label>
+        <input type="date" class="form-control" id="DTEMPRESTIMO" asp-for="DTEMPRESTIMO">
+
+        <label for="DTDEVOLUCAO" class="form-label">Valor</label>
+        <input type="date" class="form-control" id="DTDEVOLUCAO" asp-for="DTDEVOLUCAO">
+    </div>
+    <div align="right"><button type="submit" class="btn btn-success">Salvar</button></div>
+
+</form>
