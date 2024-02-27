@@ -1,0 +1,149 @@
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\appsettings.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\LivrariaBackend.exe
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\LivrariaBackend.deps.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\LivrariaBackend.runtimeconfig.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\LivrariaBackend.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\LivrariaBackend.pdb
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.csproj.AssemblyReference.cache
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.AssemblyInfoInputs.cache
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.AssemblyInfo.cs
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.csproj.CoreCompileInputs.cache
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.sourcelink.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets\msbuild.LivrariaBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.LivrariaBackend.props
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LivrariaBackend.props
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LivrariaBackend.props
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\scopedcss\bundle\LivrariaBackend.styles.css
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.csproj.CopyComplete
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\refint\LivrariaBackend.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.pdb
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\LivrariaBackend.genruntimeconfig.cache
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\obj\Debug\net8.0\ref\LivrariaBackend.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\MySqlConnector.dll
+D:\GitHub\AceleraPlenoProjetoFinal\LivrariaBackend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\appsettings.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.exe
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.deps.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.runtimeconfig.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.pdb
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\MySqlConnector.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.AssemblyReference.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.AssemblyInfoInputs.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.AssemblyInfo.cs
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.CoreCompileInputs.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.LivrariaBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LivrariaBackend.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LivrariaBackend.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LivrariaBackend.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\scopedcss\bundle\LivrariaBackend.styles.css
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.CopyComplete
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\refint\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.pdb
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.genruntimeconfig.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\LivrariaBackendAPI\obj\Debug\net8.0\ref\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\appsettings.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.exe
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.deps.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.runtimeconfig.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.pdb
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\MySqlConnector.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.AssemblyReference.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.AssemblyInfoInputs.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.AssemblyInfo.cs
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.CoreCompileInputs.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.LivrariaBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LivrariaBackend.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LivrariaBackend.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LivrariaBackend.props
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\scopedcss\bundle\LivrariaBackend.styles.css
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.CopyComplete
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\refint\LivrariaBackend.dll
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.pdb
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.genruntimeconfig.cache
+D:\OneDrive - ATOS\ATOS\My Documents\Acelera Pleno\MÓDULO 8 - PROGRAMANDO COM C#\Aula 05\ExercicioAula5\LivrariaBackendAPI\obj\Debug\net8.0\ref\LivrariaBackend.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.exe
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.deps.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.runtimeconfig.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\LivrariaBackend.pdb
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.AssemblyReference.cache
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.AssemblyInfoInputs.cache
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.AssemblyInfo.cs
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.csproj.CoreCompileInputs.cache
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.LivrariaBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LivrariaBackend.props
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LivrariaBackend.props
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LivrariaBackend.props
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\scopedcss\bundle\LivrariaBackend.styles.css
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\Livraria.9F88127C.Up2Date
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\refint\LivrariaBackend.dll
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.pdb
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\LivrariaBackend.genruntimeconfig.cache
+C:\Users\aland\Desktop\Livraria2\LivrariaBackendAPI\obj\Debug\net8.0\ref\LivrariaBackend.dll

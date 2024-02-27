@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "LivrariaBackend.Controllers.EmprestimoController",
+    "Method": "GetEmprestimos",
+    "RelativePath": "api/Emprestimo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LivrariaBackend.Controllers.EmprestimoController",
+    "Method": "InsertEmprestimos",
+    "RelativePath": "api/Emprestimo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emprestimo",
+        "Type": "Livraria.Emprestimo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LivrariaBackend.Controllers.LivroController",
+    "Method": "GetLivros",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LivrariaBackend.Controllers.LivroController",
+    "Method": "InserLivros",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "livro",
+        "Type": "Livraria.Livros",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LivrariaBackend.Controllers.UsuarioController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LivrariaBackend.Controllers.UsuarioController",
+    "Method": "InsertUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "Livraria.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
