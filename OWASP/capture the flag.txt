@@ -1,0 +1,33 @@
+atacante
+endereço mac 08002706FEAB
+
+alvo
+endereço mac 080027F349A6
+ip: 192.168.0.65
+http://192.168.0.65/
+http://192.168.0.65/sitemap.xml
+
+isw0:x:500:500::/home/isw0:/bin/bash
+isw2:x:502:502::/home/isw2:/bin/bash
+root:x:0:0:root:/root:/bin/bash
+
+note.txt
+wordpress
+
+Note Form Developer Team 
+1. Try Harder
+2. Enumeration is the key
+
+$user="isw0";
+$pass="123456789blabla";
+
+header("Location: https://www.armourinfosec.com/category/information-gathering/");
+
+flag do usuário
+e4408105ca9c2a5c2714a818c475d06e
+
+flag do root 
+fc9c6eb6265921315e7c70aebd22af7e
+
+https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
+https://sourceforge.net/projects/metasploitable/
