@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\",
+  "WorkspaceRootPath": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|c:\\users\\aland\\desktop\\projetoapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|d:\\repos\\acelerapleno\\api\\projetoapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|c:\\users\\aland\\desktop\\projetoapi\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|solutionrelative:repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|c:\\users\\aland\\desktop\\projetoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|c:\\users\\aland\\desktop\\projetoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|c:\\users\\aland\\desktop\\projetoapi\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0322390E-9683-442F-A91C-8AFE15924527}|ProjetoAPI.csproj|solutionrelative:repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 42,
+          "SelectedChildIndex": 43,
           "Children": [
             {
               "$type": "Bookmark",
@@ -197,27 +197,30 @@
               "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-28T00:59:54.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:59:54.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Controllers\\ClientesController.cs",
+              "DocumentMoniker": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T00:49:33.263Z",
               "EditorCaption": ""
@@ -226,40 +229,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Repository\\ClienteRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Repository\\ClienteRepository.cs",
+              "ToolTip": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Repository\\ClienteRepository.cs",
               "RelativeToolTip": "Repository\\ClienteRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAgwBUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:29:02.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:29:02.25Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Repository\\IClienteRepository.cs",
+              "DocumentMoniker": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Repository\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Repository\\IClienteRepository.cs",
+              "ToolTip": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Repository\\IClienteRepository.cs",
               "RelativeToolTip": "Repository\\IClienteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T00:22:56.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T00:22:56.686Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Program.cs",
+              "DocumentMoniker": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\Program.cs",
+              "ToolTip": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T22:29:36.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T22:29:36.326Z"
             }
           ]
         }

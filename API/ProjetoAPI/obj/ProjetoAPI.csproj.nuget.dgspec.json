@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aland\\Desktop\\ProjetoAPI\\ProjetoAPI.csproj": {}
+    "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\ProjetoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aland\\Desktop\\ProjetoAPI\\ProjetoAPI.csproj": {
+    "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\ProjetoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\ProjetoAPI.csproj",
+        "projectUniqueName": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\ProjetoAPI.csproj",
         "projectName": "ProjetoAPI",
-        "projectPath": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\ProjetoAPI.csproj",
+        "projectPath": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\ProjetoAPI.csproj",
         "packagesPath": "C:\\Users\\aland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\obj\\",
+        "outputPath": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aland\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

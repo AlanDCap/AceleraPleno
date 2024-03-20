@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xx5tN57PgtqSX1olfojjgJSCduaA9GY9DRSHSFc/cQSc/O+Byywc1XjOiJR1aZuJe65sa/xJXavL0+y73w8kDQ==",
+  "dgSpecHash": "5YDcCPufuZh7p13F01KbNGeG6Kn2K+iFxDaoWwgq5hsl5khve+tCu7MFqrMYq1/SN25O5fc5oaFksOvA9mt/zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aland\\Desktop\\ProjetoAPI\\ProjetoAPI.csproj",
+  "projectFilePath": "D:\\Repos\\AceleraPleno\\API\\ProjetoAPI\\ProjetoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aland\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\aland\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
